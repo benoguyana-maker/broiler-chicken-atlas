@@ -1,0 +1,9 @@
+{
+  "appId": "com.broilerchickenatlas.app",
+  "appName": "Broiler Chicken Atlas",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
